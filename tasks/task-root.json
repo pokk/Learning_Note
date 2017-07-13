@@ -1,0 +1,229 @@
+{
+    "id": "root",
+    "content": "The study and creation is the life two feet",
+    "children": "2c562664-777e-46d2-ac39-6cf492ba2415",
+    "detail": {
+        "entityMap": {
+            "0": {
+                "type": "LINK",
+                "mutability": "MUTABLE",
+                "data": {
+                    "href": "http://origingroup.tech"
+                }
+            },
+            "1": {
+                "type": "LINK",
+                "mutability": "MUTABLE",
+                "data": {
+                    "url": "https://github.com/origingroup/hydrogen/issues"
+                }
+            }
+        },
+        "blocks": [
+            {
+                "key": "3ldsu",
+                "text": "About",
+                "type": "header-one",
+                "depth": 0,
+                "inlineStyleRanges": [],
+                "entityRanges": [],
+                "data": {}
+            },
+            {
+                "key": "adof7",
+                "text": "",
+                "type": "unstyled",
+                "depth": 0,
+                "inlineStyleRanges": [],
+                "entityRanges": [],
+                "data": {}
+            },
+            {
+                "key": "aarq2",
+                "text": "So what is Hydrogen? What can you do with it? ",
+                "type": "unstyled",
+                "depth": 0,
+                "inlineStyleRanges": [
+                    {
+                        "offset": 11,
+                        "length": 8,
+                        "style": "BOLD"
+                    }
+                ],
+                "entityRanges": [],
+                "data": {}
+            },
+            {
+                "key": "b2stb",
+                "text": "",
+                "type": "unstyled",
+                "depth": 0,
+                "inlineStyleRanges": [],
+                "entityRanges": [],
+                "data": {}
+            },
+            {
+                "key": "tagk",
+                "text": "Let me explain,  I create Hydrogen for my personal projects and todos, tasks, notes everyday.  There are so many options for todo and note apps,  But I just got tired and frustrated, I cant find exactly what I want to work wit. My needs are:",
+                "type": "unstyled",
+                "depth": 0,
+                "inlineStyleRanges": [],
+                "entityRanges": [],
+                "data": {}
+            },
+            {
+                "key": "2jacp",
+                "text": "",
+                "type": "unstyled",
+                "depth": 0,
+                "inlineStyleRanges": [],
+                "entityRanges": [],
+                "data": {}
+            },
+            {
+                "key": "547d2",
+                "text": "A tree structure list to contain my tasks or todos. ",
+                "type": "unordered-list-item",
+                "depth": 0,
+                "inlineStyleRanges": [],
+                "entityRanges": [],
+                "data": {}
+            },
+            {
+                "key": "5s2sa",
+                "text": "Tasks should have child tasks, child tasks can also have child tasks. ",
+                "type": "unordered-list-item",
+                "depth": 0,
+                "inlineStyleRanges": [],
+                "entityRanges": [],
+                "data": {}
+            },
+            {
+                "key": "ad95k",
+                "text": "Task shold be as easy as possible, I dont need so many options, because everything is personal",
+                "type": "unordered-list-item",
+                "depth": 0,
+                "inlineStyleRanges": [],
+                "entityRanges": [],
+                "data": {}
+            },
+            {
+                "key": "7gm0g",
+                "text": "An easy but powerful editor for task details (markdown, wysiwyg)",
+                "type": "unordered-list-item",
+                "depth": 0,
+                "inlineStyleRanges": [],
+                "entityRanges": [],
+                "data": {}
+            },
+            {
+                "key": "2j7tk",
+                "text": "Some strategy to work with my tasks , eg scrum model",
+                "type": "unordered-list-item",
+                "depth": 0,
+                "inlineStyleRanges": [],
+                "entityRanges": [],
+                "data": {}
+            },
+            {
+                "key": "9gci5",
+                "text": "And I can see everything in a calendar  view",
+                "type": "unordered-list-item",
+                "depth": 0,
+                "inlineStyleRanges": [],
+                "entityRanges": [],
+                "data": {}
+            },
+            {
+                "key": "d5hlf",
+                "text": "Of course, should look nice and beautiful",
+                "type": "unordered-list-item",
+                "depth": 0,
+                "inlineStyleRanges": [],
+                "entityRanges": [],
+                "data": {}
+            },
+            {
+                "key": "7ln8b",
+                "text": "",
+                "type": "unstyled",
+                "depth": 0,
+                "inlineStyleRanges": [],
+                "entityRanges": [],
+                "data": {}
+            },
+            {
+                "key": "95ujq",
+                "text": "So, I start to work out my own solution -  Hydrogen!  And I hope it can help you too :-) !",
+                "type": "unstyled",
+                "depth": 0,
+                "inlineStyleRanges": [
+                    {
+                        "offset": 43,
+                        "length": 8,
+                        "style": "BOLD"
+                    }
+                ],
+                "entityRanges": [],
+                "data": {}
+            },
+            {
+                "key": "e6hgi",
+                "text": "",
+                "type": "unstyled",
+                "depth": 0,
+                "inlineStyleRanges": [],
+                "entityRanges": [],
+                "data": {}
+            },
+            {
+                "key": "cqeul",
+                "text": "Links",
+                "type": "header-one",
+                "depth": 0,
+                "inlineStyleRanges": [],
+                "entityRanges": [],
+                "data": {}
+            },
+            {
+                "key": "dhgii",
+                "text": "Website: http://origingroup.tech ",
+                "type": "unordered-list-item",
+                "depth": 0,
+                "inlineStyleRanges": [],
+                "entityRanges": [
+                    {
+                        "offset": 9,
+                        "length": 23,
+                        "key": 0
+                    }
+                ],
+                "data": {}
+            },
+            {
+                "key": "4anh5",
+                "text": "Community disscusions: https://github.com/origingroup/hydrogen/issues ",
+                "type": "unordered-list-item",
+                "depth": 0,
+                "inlineStyleRanges": [],
+                "entityRanges": [
+                    {
+                        "offset": 23,
+                        "length": 47,
+                        "key": 1
+                    }
+                ],
+                "data": {}
+            },
+            {
+                "key": "2r12n",
+                "text": "",
+                "type": "unstyled",
+                "depth": 0,
+                "inlineStyleRanges": [],
+                "entityRanges": [],
+                "data": {}
+            }
+        ]
+    }
+}

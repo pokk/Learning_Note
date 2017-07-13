@@ -1,0 +1,349 @@
+{
+    "id": "2c562664-777e-46d2-ac39-6cf492ba2415",
+    "content": "Getting start",
+    "pid": "root",
+    "next": "e0353601-47de-4250-8e5f-e0a4d9755928",
+    "detail": {
+        "entityMap": {},
+        "blocks": [
+            {
+                "key": "73vg",
+                "text": "Task list",
+                "type": "header-two",
+                "depth": 0,
+                "inlineStyleRanges": [],
+                "entityRanges": [],
+                "data": {}
+            },
+            {
+                "key": "6im01",
+                "text": "The left panel is a tree structual list, every list item is a task. Which make it awesome is that the list is just works like a list in Office Word document. This makes it really easy and fast to create, update and delete a task",
+                "type": "unstyled",
+                "depth": 0,
+                "inlineStyleRanges": [],
+                "entityRanges": [],
+                "data": {}
+            },
+            {
+                "key": "a6s7d",
+                "text": "",
+                "type": "unstyled",
+                "depth": 0,
+                "inlineStyleRanges": [],
+                "entityRanges": [],
+                "data": {}
+            },
+            {
+                "key": "b1ick",
+                "text": "Create Task:  Focus on any task, move cursor to the end of the task, enter Return Key",
+                "type": "unordered-list-item",
+                "depth": 0,
+                "inlineStyleRanges": [
+                    {
+                        "offset": 0,
+                        "length": 11,
+                        "style": "BOLD"
+                    },
+                    {
+                        "offset": 75,
+                        "length": 10,
+                        "style": "BOLD"
+                    }
+                ],
+                "entityRanges": [],
+                "data": {}
+            },
+            {
+                "key": "6db8r",
+                "text": "Edit Task: Task is editable when it is focused, every change will save to the disk, so you dont need worry about when need to save",
+                "type": "unordered-list-item",
+                "depth": 0,
+                "inlineStyleRanges": [
+                    {
+                        "offset": 0,
+                        "length": 11,
+                        "style": "BOLD"
+                    }
+                ],
+                "entityRanges": [],
+                "data": {}
+            },
+            {
+                "key": "d9kbm",
+                "text": "Delete Task: Task is not deleteable when it have child task, when a task doesn't have any child task, delete all characters and keep enter Delete Key will delete it.",
+                "type": "unordered-list-item",
+                "depth": 0,
+                "inlineStyleRanges": [
+                    {
+                        "offset": 0,
+                        "length": 11,
+                        "style": "BOLD"
+                    },
+                    {
+                        "offset": 138,
+                        "length": 12,
+                        "style": "BOLD"
+                    }
+                ],
+                "entityRanges": [],
+                "data": {}
+            },
+            {
+                "key": "8is10",
+                "text": "Task Indetation: You can use Tab and Shift + Tab to indent a task, that's how to make child task.",
+                "type": "unordered-list-item",
+                "depth": 0,
+                "inlineStyleRanges": [
+                    {
+                        "offset": 0,
+                        "length": 15,
+                        "style": "BOLD"
+                    },
+                    {
+                        "offset": 29,
+                        "length": 4,
+                        "style": "BOLD"
+                    },
+                    {
+                        "offset": 37,
+                        "length": 11,
+                        "style": "BOLD"
+                    }
+                ],
+                "entityRanges": [],
+                "data": {}
+            },
+            {
+                "key": "20lpn",
+                "text": "Move Up and Down: You can use Ctrl + Up/Down to move task",
+                "type": "unordered-list-item",
+                "depth": 0,
+                "inlineStyleRanges": [
+                    {
+                        "offset": 0,
+                        "length": 16,
+                        "style": "BOLD"
+                    },
+                    {
+                        "offset": 29,
+                        "length": 15,
+                        "style": "BOLD"
+                    }
+                ],
+                "entityRanges": [],
+                "data": {}
+            },
+            {
+                "key": "b546v",
+                "text": "Fold and Unfold: If a task have child task, If you hover on this task, on the left, the will be a plus and minus icon, you can click the icon to fold and unfold the task.",
+                "type": "unordered-list-item",
+                "depth": 0,
+                "inlineStyleRanges": [
+                    {
+                        "offset": 0,
+                        "length": 15,
+                        "style": "BOLD"
+                    }
+                ],
+                "entityRanges": [],
+                "data": {}
+            },
+            {
+                "key": "52shp",
+                "text": "Pop: We don't need to care everything in the list, we just need to care some task and it's child tasks at some time. You can click the black dot on the left to pop the task then the task will be the root task of the list. If you want to go back, just click the breadcrumb on the top of the list.",
+                "type": "unordered-list-item",
+                "depth": 0,
+                "inlineStyleRanges": [
+                    {
+                        "offset": 0,
+                        "length": 3,
+                        "style": "BOLD"
+                    }
+                ],
+                "entityRanges": [],
+                "data": {}
+            },
+            {
+                "key": "f0m68",
+                "text": "",
+                "type": "unstyled",
+                "depth": 0,
+                "inlineStyleRanges": [],
+                "entityRanges": [],
+                "data": {}
+            },
+            {
+                "key": "afi3d",
+                "text": "Task Views",
+                "type": "header-two",
+                "depth": 0,
+                "inlineStyleRanges": [],
+                "entityRanges": [],
+                "data": {}
+            },
+            {
+                "key": "46duv",
+                "text": "The right panel is the task detail views: Task Detail View + Kanban View + Calendar View ",
+                "type": "unstyled",
+                "depth": 0,
+                "inlineStyleRanges": [
+                    {
+                        "offset": 42,
+                        "length": 47,
+                        "style": "BOLD"
+                    }
+                ],
+                "entityRanges": [],
+                "data": {}
+            },
+            {
+                "key": "4bukg",
+                "text": "Task Detail View: In task detail view, you can set task metadata (eg plan start time, deadline, tags ) and task description, task description is a really powerful wysiwyg editor",
+                "type": "unordered-list-item",
+                "depth": 0,
+                "inlineStyleRanges": [
+                    {
+                        "offset": 0,
+                        "length": 17,
+                        "style": "BOLD"
+                    }
+                ],
+                "entityRanges": [],
+                "data": {}
+            },
+            {
+                "key": "d545m",
+                "text": "Kanban View: I like the idea of scrum model, so I made a kanban view which I can split tasks into groups (backlog, sprint, product).",
+                "type": "unordered-list-item",
+                "depth": 0,
+                "inlineStyleRanges": [
+                    {
+                        "offset": 0,
+                        "length": 12,
+                        "style": "BOLD"
+                    }
+                ],
+                "entityRanges": [],
+                "data": {}
+            },
+            {
+                "key": "85chs",
+                "text": "Calendar View: We can see tasks in time  in calendar view. ",
+                "type": "unordered-list-item",
+                "depth": 0,
+                "inlineStyleRanges": [],
+                "entityRanges": [],
+                "data": {}
+            },
+            {
+                "key": "7hfg2",
+                "text": "",
+                "type": "unstyled",
+                "depth": 0,
+                "inlineStyleRanges": [],
+                "entityRanges": [],
+                "data": {}
+            },
+            {
+                "key": "fpolt",
+                "text": "",
+                "type": "unstyled",
+                "depth": 0,
+                "inlineStyleRanges": [],
+                "entityRanges": [],
+                "data": {}
+            },
+            {
+                "key": "4pgge",
+                "text": "Task Detail Editor",
+                "type": "header-two",
+                "depth": 0,
+                "inlineStyleRanges": [],
+                "entityRanges": [],
+                "data": {}
+            },
+            {
+                "key": "8om4t",
+                "text": "Tooltip Modifier：After you type some words, if you select them, you can see a tooltip, you can use the tooltip to make Headings and styles",
+                "type": "unordered-list-item",
+                "depth": 0,
+                "inlineStyleRanges": [
+                    {
+                        "offset": 0,
+                        "length": 16,
+                        "style": "BOLD"
+                    }
+                ],
+                "entityRanges": [],
+                "data": {}
+            },
+            {
+                "key": "efc6c",
+                "text": "Makrdown: The powerful part is that you can use markdown syntax to make style, the syntaxis [\"markdown syntax\" + \" \"]  eg: [\"#\" + \" \" ],",
+                "type": "unordered-list-item",
+                "depth": 0,
+                "inlineStyleRanges": [
+                    {
+                        "offset": 0,
+                        "length": 9,
+                        "style": "BOLD"
+                    }
+                ],
+                "entityRanges": [],
+                "data": {}
+            },
+            {
+                "key": "f3o95",
+                "text": "You can also paste markdown content, and the editor will convert automatically",
+                "type": "unordered-list-item",
+                "depth": 0,
+                "inlineStyleRanges": [],
+                "entityRanges": [],
+                "data": {}
+            },
+            {
+                "key": "a3ot7",
+                "text": "",
+                "type": "unstyled",
+                "depth": 0,
+                "inlineStyleRanges": [],
+                "entityRanges": [],
+                "data": {}
+            },
+            {
+                "key": "2ak09",
+                "text": "Tips",
+                "type": "header-two",
+                "depth": 0,
+                "inlineStyleRanges": [],
+                "entityRanges": [],
+                "data": {}
+            },
+            {
+                "key": "62a5a",
+                "text": "Export tasks: Tasks are saved to localstorage, You can export and import tasks at [Settings]",
+                "type": "unordered-list-item",
+                "depth": 0,
+                "inlineStyleRanges": [
+                    {
+                        "offset": 0,
+                        "length": 14,
+                        "style": "BOLD"
+                    }
+                ],
+                "entityRanges": [],
+                "data": {}
+            },
+            {
+                "key": "dv8l6",
+                "text": "",
+                "type": "unstyled",
+                "depth": 0,
+                "inlineStyleRanges": [],
+                "entityRanges": [],
+                "data": {}
+            }
+        ]
+    },
+    "children": null
+}

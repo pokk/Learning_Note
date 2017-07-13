@@ -1,0 +1,342 @@
+{
+    "id": "e0353601-47de-4250-8e5f-e0a4d9755928",
+    "content": "快速开始",
+    "pid": "root",
+    "detail": {
+        "entityMap": {},
+        "blocks": [
+            {
+                "key": "2ho44",
+                "text": "任务列表",
+                "type": "header-two",
+                "depth": 0,
+                "inlineStyleRanges": [],
+                "entityRanges": [],
+                "data": {}
+            },
+            {
+                "key": "1mt4r",
+                "text": "",
+                "type": "unstyled",
+                "depth": 0,
+                "inlineStyleRanges": [],
+                "entityRanges": [],
+                "data": {}
+            },
+            {
+                "key": "99l74",
+                "text": "左侧面板是一个树形的列表，列表可以嵌套子列表，每一个列表项代表一个任务，编辑列表或者任务就像编辑 word 中的列表一样:",
+                "type": "unstyled",
+                "depth": 0,
+                "inlineStyleRanges": [],
+                "entityRanges": [],
+                "data": {}
+            },
+            {
+                "key": "5l36a",
+                "text": "",
+                "type": "unstyled",
+                "depth": 0,
+                "inlineStyleRanges": [],
+                "entityRanges": [],
+                "data": {}
+            },
+            {
+                "key": "5ekn9",
+                "text": "新增任务:  只需在上一个列表末尾输入 Return 回车键 ",
+                "type": "unordered-list-item",
+                "depth": 0,
+                "inlineStyleRanges": [
+                    {
+                        "offset": 0,
+                        "length": 6,
+                        "style": "BOLD"
+                    },
+                    {
+                        "offset": 20,
+                        "length": 11,
+                        "style": "BOLD"
+                    }
+                ],
+                "entityRanges": [],
+                "data": {}
+            },
+            {
+                "key": "8c8mu",
+                "text": "编辑任务:  鼠标点击任务即可进入任务编辑状态，任何修改都会保存到本地，所见即所得",
+                "type": "unordered-list-item",
+                "depth": 0,
+                "inlineStyleRanges": [
+                    {
+                        "offset": 0,
+                        "length": 6,
+                        "style": "BOLD"
+                    }
+                ],
+                "entityRanges": [],
+                "data": {}
+            },
+            {
+                "key": "dnp2s",
+                "text": "删除任务: 如果一个任务包好有子任务，那么不能删除该任务，如果一个任务无子任务，删除掉该任务的所有文字过后继续 Delete 就会删除该任务",
+                "type": "unordered-list-item",
+                "depth": 0,
+                "inlineStyleRanges": [
+                    {
+                        "offset": 0,
+                        "length": 6,
+                        "style": "BOLD"
+                    },
+                    {
+                        "offset": 56,
+                        "length": 6,
+                        "style": "BOLD"
+                    }
+                ],
+                "entityRanges": [],
+                "data": {}
+            },
+            {
+                "key": "7p3a4",
+                "text": "任务缩进:  使用 Tab 以及 Shift + Tab  完成任务的缩进, 这时候被缩进的任务会变成其他任务的子任务",
+                "type": "unordered-list-item",
+                "depth": 0,
+                "inlineStyleRanges": [
+                    {
+                        "offset": 0,
+                        "length": 6,
+                        "style": "BOLD"
+                    },
+                    {
+                        "offset": 10,
+                        "length": 4,
+                        "style": "BOLD"
+                    },
+                    {
+                        "offset": 17,
+                        "length": 11,
+                        "style": "BOLD"
+                    }
+                ],
+                "entityRanges": [],
+                "data": {}
+            },
+            {
+                "key": "3tb36",
+                "text": "上下移动: 使用 Ctrl + 上下方向键 可以让任务上下移动",
+                "type": "unordered-list-item",
+                "depth": 0,
+                "inlineStyleRanges": [
+                    {
+                        "offset": 0,
+                        "length": 5,
+                        "style": "BOLD"
+                    }
+                ],
+                "entityRanges": [],
+                "data": {}
+            },
+            {
+                "key": "2nemc",
+                "text": "任务折叠：如果一个任务有子任务，鼠标悬停在任务上面，可以在左侧看到 + 或者 - ，点击可进行任务的折叠和展开",
+                "type": "unordered-list-item",
+                "depth": 0,
+                "inlineStyleRanges": [
+                    {
+                        "offset": 0,
+                        "length": 4,
+                        "style": "BOLD"
+                    }
+                ],
+                "entityRanges": [],
+                "data": {}
+            },
+            {
+                "key": "1q6ht",
+                "text": "顶级任务切换：点击每个任务左边的小圆点，顶级任务会切换为当前任务，这个时候整个应用围绕当前这个任务以及其子任务展开，屏蔽其他任务的干扰",
+                "type": "unordered-list-item",
+                "depth": 0,
+                "inlineStyleRanges": [
+                    {
+                        "offset": 0,
+                        "length": 6,
+                        "style": "BOLD"
+                    }
+                ],
+                "entityRanges": [],
+                "data": {}
+            },
+            {
+                "key": "3ntvs",
+                "text": "任务视图",
+                "type": "header-two",
+                "depth": 0,
+                "inlineStyleRanges": [],
+                "entityRanges": [],
+                "data": {}
+            },
+            {
+                "key": "er7bf",
+                "text": "任务详情：右侧面板主要有三个标签页，其中默认的第一个为任务的详情",
+                "type": "unordered-list-item",
+                "depth": 0,
+                "inlineStyleRanges": [
+                    {
+                        "offset": 0,
+                        "length": 5,
+                        "style": "BOLD"
+                    }
+                ],
+                "entityRanges": [],
+                "data": {}
+            },
+            {
+                "key": "f8fm1",
+                "text": "修改任务状态：右侧标题右边的三个点图标，点击可以查看相关操作，可以执行任务的开始结束时间的设定, 同时也可以执行删除任务和导出任务",
+                "type": "unordered-list-item",
+                "depth": 1,
+                "inlineStyleRanges": [
+                    {
+                        "offset": 0,
+                        "length": 7,
+                        "style": "BOLD"
+                    }
+                ],
+                "entityRanges": [],
+                "data": {}
+            },
+            {
+                "key": "f583d",
+                "text": "看板：看板为任务 scrum 模型的，可以根据自己的需求点击看板上任务右侧的方向箭头来修改任务所属的面板",
+                "type": "unordered-list-item",
+                "depth": 1,
+                "inlineStyleRanges": [
+                    {
+                        "offset": 0,
+                        "length": 3,
+                        "style": "BOLD"
+                    }
+                ],
+                "entityRanges": [],
+                "data": {}
+            },
+            {
+                "key": "lofm",
+                "text": "日历：日历面看可以看到已规划时间的任务在日历中的展示",
+                "type": "unordered-list-item",
+                "depth": 1,
+                "inlineStyleRanges": [
+                    {
+                        "offset": 0,
+                        "length": 3,
+                        "style": "BOLD"
+                    }
+                ],
+                "entityRanges": [],
+                "data": {}
+            },
+            {
+                "key": "79cpl",
+                "text": "",
+                "type": "unstyled",
+                "depth": 0,
+                "inlineStyleRanges": [],
+                "entityRanges": [],
+                "data": {}
+            },
+            {
+                "key": "cgacj",
+                "text": "",
+                "type": "unstyled",
+                "depth": 0,
+                "inlineStyleRanges": [],
+                "entityRanges": [],
+                "data": {}
+            },
+            {
+                "key": "8mmbd",
+                "text": "任务详情编辑",
+                "type": "header-two",
+                "depth": 0,
+                "inlineStyleRanges": [],
+                "entityRanges": [],
+                "data": {}
+            },
+            {
+                "key": "7s7lp",
+                "text": "浮层 Tooltip 编辑：备注内如果选择输入的文字，会弹出 tooltip ，点击对应的按钮可以设置一级标题，二级标题，列表等功能",
+                "type": "unordered-list-item",
+                "depth": 0,
+                "inlineStyleRanges": [
+                    {
+                        "offset": 0,
+                        "length": 13,
+                        "style": "BOLD"
+                    }
+                ],
+                "entityRanges": [],
+                "data": {}
+            },
+            {
+                "key": "9fb",
+                "text": "Markdown 输入：可以通过 【markdown语法 + 空格】的模式实现内容编辑，如输入一级标题可通过 【#+空格+内容】，输入链接 【[http://origingroup.tech](http://origingroup.tech)+空格】，输入图片和链接同理【![http://origingroup.tech](http://origingroup.tech)+空格】",
+                "type": "unordered-list-item",
+                "depth": 0,
+                "inlineStyleRanges": [
+                    {
+                        "offset": 0,
+                        "length": 11,
+                        "style": "BOLD"
+                    }
+                ],
+                "entityRanges": [],
+                "data": {}
+            },
+            {
+                "key": "2hpa0",
+                "text": "可以直接粘贴 markdown 文本，编辑器会自动解析对应的样式",
+                "type": "unordered-list-item",
+                "depth": 0,
+                "inlineStyleRanges": [],
+                "entityRanges": [],
+                "data": {}
+            },
+            {
+                "key": "7chci",
+                "text": "",
+                "type": "unstyled",
+                "depth": 0,
+                "inlineStyleRanges": [],
+                "entityRanges": [],
+                "data": {}
+            },
+            {
+                "key": "6vmsh",
+                "text": "Tips",
+                "type": "header-two",
+                "depth": 0,
+                "inlineStyleRanges": [],
+                "entityRanges": [],
+                "data": {}
+            },
+            {
+                "key": "13tii",
+                "text": "任务导出：如果担心编辑好的任务会丢失，可以点击左下角的设置，可以找到导入导出按钮",
+                "type": "unordered-list-item",
+                "depth": 0,
+                "inlineStyleRanges": [],
+                "entityRanges": [],
+                "data": {}
+            },
+            {
+                "key": "830hm",
+                "text": "",
+                "type": "unstyled",
+                "depth": 0,
+                "inlineStyleRanges": [],
+                "entityRanges": [],
+                "data": {}
+            }
+        ]
+    }
+}
